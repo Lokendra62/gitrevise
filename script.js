@@ -13,3 +13,5 @@ function name2()
 {
     console.log("yes run");
 }
+Lokendra singh chauhan is the best developer in the world wide network.
+    yes complete

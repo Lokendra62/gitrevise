@@ -9,3 +9,7 @@ function name2()
 {
     console.log("yes run");
 }
+function name2()
+{
+    console.log("yes run");
+}

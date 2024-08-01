@@ -13,3 +13,5 @@ function name2()
 {
     console.log("yes run");
 }
+lokendra singh chauhan
+hello lokendra
